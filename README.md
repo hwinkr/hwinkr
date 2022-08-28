@@ -1,4 +1,4 @@
-### hi ~👋
+### 안녕하세요 ~ 😊
   <div align=center>
 
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dnddl8280)](https://solved.ac/dnddl8280) <br/>
