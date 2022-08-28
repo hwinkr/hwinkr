@@ -11,7 +11,7 @@
 <hr>
 
 ### 😺ME😺 <br/>
-<a href="https://github.com/hwinkr">
+<a href="https://www.instagram.com/morechw/">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=flat-square&logo=Instagram&logoColor=white"/>
 </a>
 
